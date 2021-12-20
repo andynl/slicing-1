@@ -3,8 +3,8 @@ import SectionTitle from "./SectionTitle";
 
 export default function ProfileSection() {
     return (
-        <section>
-        <div className="container mx-auto py-28">
+        <section className="py-28" id="profile">
+        <div className="container mx-auto">
             <SectionTitle>Profile</SectionTitle>
             <SectionParagraph>Mengenal saya secara singkat.</SectionParagraph>
             <div className="flex items-center w-9/12 mx-auto mt-10">
