@@ -36,7 +36,7 @@ module.exports = {
       const utilities = {
         ".bg-hero": {  
           "background-image": "url(/hero.png)",
-          "background-size" : "cover%",
+          "background-size" : "cover",
           "background-position": "bottom",
           "background-repeat": "no-repeat "
         },
